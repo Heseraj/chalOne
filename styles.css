@@ -1,0 +1,44 @@
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 5rem;
+    margin: 10px auto;
+    color: aqua;
+}
+
+h2{
+    font-size: 4rem;
+    color: aquamarine;
+}
+
+h4{
+    font-size: 3rem;
+    color: chartreuse;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    font-weight: bolder;
+    width: 350px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 3rem;
+}
+
+
+#increment-btn {
+    background-color: darkred;
+}
+
